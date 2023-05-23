@@ -4,14 +4,9 @@
     margin-right: 10px;
     border-radius: 50%;
     object-fit: cover;
-    display: flex;
     align-items: center;
     gap: 10px;
-}
-
-.speaker-info img {
-  vertical-align: middle;
-  height: 40px; /* Adjust the height as needed */
+    vertical-align: middle;
 }
 
 .highlight {
