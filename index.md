@@ -6,7 +6,7 @@ layout: default
 
 # 節目單
 
-<span class="highlight">1:00 - 1:45</span>       入場
+<span class="highlight">1:00 - 1:45</span> 入場
 
 <span class="highlight">1:45 - 2:00</span> 開場
 
@@ -20,6 +20,6 @@ layout: default
 
 <span class="highlight">4:15 - 4:45</span> ![Speaker 3](willis.png){: .speaker-image} Willis Ho - 從零開始：成為好萊塢特效師之路
 
-<span class="highlight">4:45 - 5:00</span> 休息
+<span class="highlight">4:45 - 5:00</span> 中場休息
 
 <span class="highlight">5:00 - 5:30</span> ![Speaker 3](keisi.png){: .speaker-image} Kelsi May - 一個加拿大女生不小心變成台灣 YouTuber 的故事
