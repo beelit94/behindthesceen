@@ -11,7 +11,7 @@ layout: default
 - ![Speaker 3](speaker3.jpg){: .speaker-image}
   2:00 - 2:20 從油管和小紅書我學到了什麽？ - Youzang
 
-- ![Speaker 4](speaker4.jpg){: .speaker-image}
+- ![Speaker 4](Fey.png){: .speaker-image}
   2:20 - 3:00 中西文化的電影差別 — 奧斯卡與金馬獎前製到後製的幕後推手 - Feyannie Hung
 
 - ![Speaker 5](speaker5.jpg){: .speaker-image}
