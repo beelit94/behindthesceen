@@ -5,6 +5,4 @@ plugins:
 
 title: 創作者的故事
 description: 當Youtuber遇上電影工作者 
-
-github:
-  is_project_page: false
+is_project_page: false
