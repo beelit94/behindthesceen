@@ -5,6 +5,11 @@
     border-radius: 50%;
     object-fit: cover;
   }
+
+  .highlight {
+    background-color: yellow;
+    font-weight: bold;
+  }
   
   @media (max-width: 480px) {
     .speaker-image {
