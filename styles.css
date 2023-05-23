@@ -7,18 +7,23 @@
     display: flex;
     align-items: center;
     gap: 10px;
-  }
+}
 
-  .highlight {
-    background-color: yellow;
-    font-weight: bold;
-  }
+.speaker-info img {
+  vertical-align: middle;
+  height: 40px; /* Adjust the height as needed */
+}
+
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
   
-  @media (max-width: 480px) {
-    .speaker-image {
-      width: 30px;
-      height: 30px;
-      margin-right: 5px;
-    }
+@media (max-width: 480px) {
+  .speaker-image {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
   }
+}
   
