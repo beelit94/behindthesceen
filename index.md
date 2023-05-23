@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link rel="stylesheet" href="styles.css">
+
 # 創作者的故事
 
 - 1:00 - 1:45 入場
