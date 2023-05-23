@@ -6,7 +6,7 @@ layout: default
 
 # 節目單
 
-<span class="highlight">1:00 - 1:45</span> 入場
+<span class="highlight">1:00 - 1:45</span>       入場
 
 <span class="highlight">1:45 - 2:00</span> 開場
 
