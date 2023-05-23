@@ -14,7 +14,7 @@ layout: default
 
 <span class="highlight">2:20 - 3:00</span> ![Speaker 4](Fey.png){: .speaker-image} Feyannie Hung - 中西文化的電影差別 — 奧斯卡與金馬獎前製到後製的幕後推手
 
-<span class="highlight">3:00 - 3:45</span> 中場休息
+<span class="highlight">3:00 - 3:45</span> 中場休息 - 第二場次入場
 
 <span class="highlight">3:45 - 4:15</span> ![Speaker 3](carrie.png){: .speaker-image} Carrie Kwai - 銷售還是分享：我們做 YouTuber 遇到的挑戰
 
