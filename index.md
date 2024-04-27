@@ -20,6 +20,8 @@ layout: default
 
 <span class="highlight">3:15 - 3:30</span> 15分鐘休息 享用點心
 
+<span class="highlight">3:30 - 4:00</span> Kathy - 我在內容創作上所運用到的AI工具
+
 <span class="highlight">4:00 - 4:30</span> 座談會
 
 <span class="highlight">4:30 - 5:30</span> 抽獎＆ Mingle 交流時間
